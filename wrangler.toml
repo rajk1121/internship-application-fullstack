@@ -1,0 +1,6 @@
+name = "cloudfare"
+type = "javascript"
+account_id = "dad9b5636587548731d6547c0244b4da"
+workers_dev = true
+route = ""
+zone_id = ""
